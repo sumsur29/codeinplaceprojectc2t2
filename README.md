@@ -1,4 +1,4 @@
-# codeinplaceprojectc2t2
+# codeinplaceprojectc2t2 - Sumeet Surana
 My project submission for the codeinplace final project assignment - A CBT bot named C2T2
 
 The home folder replicates the one on ed. 
