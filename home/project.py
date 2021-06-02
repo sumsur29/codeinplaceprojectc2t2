@@ -6,8 +6,8 @@ In no way a perfect bot, but a good first step to help the world!
 '''
 import csv, json, datetime, random
 
-ANALYTICS_FILE = '/home/data/analytics.csv'
-CBT_FILE = '/home/cbt/challenging_thoughts.json'
+ANALYTICS_FILE = 'home/data/analytics.csv'
+CBT_FILE = 'home/cbt/challenging_thoughts.json'
 
 def main():
     name = cbt_intro_get_name()                                     #takes user's name in a friendly and introductory way
